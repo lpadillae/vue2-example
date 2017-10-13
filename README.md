@@ -1,6 +1,6 @@
-# aprendiendo_vue_js_cli_usage
+# Imei checker
 
-> Aprendiendo VueJS usando Vue Cli
+> Imei checker
 
 ## Build Setup
 
@@ -13,6 +13,4 @@ npm run dev
 
 # build for production with minification
 npm run build
-```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
